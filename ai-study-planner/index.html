@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="cs">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>AI Study Planner</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <main class="app">
+      <section class="intro">
+        <p class="eyebrow">Codex jako AI operacni vrstva</p>
+        <h1>AI Study Planner</h1>
+        <p>
+          Mini-laborator ukazuje, jak AI precte data, naplanuje praci,
+          ulozi vysledek a zobrazi ho jako jednoduchou aplikaci.
+        </p>
+      </section>
+
+      <section class="grid" id="plan" aria-label="Studijni plan">
+        <article class="day-card">
+          <h2>Pondeli</h2>
+          <ul>
+            <li>
+              <span>Operační systémy: Celý kernel v Linuxu</span>
+              <small>test 2026-06-08 | obtiznost 1000/5</small>
+            </li>
+            <li>
+              <span>Matematika: funkce</span>
+              <small>test 2026-06-03 | obtiznost 5/5</small>
+            </li>
+            <li>
+              <span>Dejepis: mezivalecne obdobi</span>
+              <small>test 2026-06-05 | obtiznost 3/5</small>
+            </li>
+            <li>
+              <span>Anglictina: essay</span>
+              <small>test 2026-06-04 | obtiznost 2/5</small>
+            </li>
+          </ul>
+        </article>
+        <article class="day-card">
+          <h2>Utery</h2>
+          <ul>
+            <li>
+              <span>Operační systémy: Příkazy dlouhé minimálně 50 znaků</span>
+              <small>test 2026-06-08 | obtiznost 1000/5</small>
+            </li>
+            <li>
+              <span>Matematika: grafy</span>
+              <small>test 2026-06-03 | obtiznost 5/5</small>
+            </li>
+            <li>
+              <span>Anglictina: past simple</span>
+              <small>test 2026-06-04 | obtiznost 2/5</small>
+            </li>
+          </ul>
+        </article>
+        <article class="day-card">
+          <h2>Streda</h2>
+          <ul>
+            <li>
+              <span>Matematika: rovnice</span>
+              <small>test 2026-06-03 | obtiznost 5/5</small>
+            </li>
+            <li>
+              <span>Dejepis: prvni svetova valka</span>
+              <small>test 2026-06-05 | obtiznost 3/5</small>
+            </li>
+            <li>
+              <span>Anglictina: listening</span>
+              <small>test 2026-06-04 | obtiznost 2/5</small>
+            </li>
+          </ul>
+        </article>
+      </section>
+
+      <section class="explanation">
+        <h2>Co tato ukazka demonstruje</h2>
+        <div class="steps">
+          <article>
+            <strong>1. Vstup</strong>
+            <span>Data o predmetech jsou v souboru subjects.json.</span>
+          </article>
+          <article>
+            <strong>2. Planovani</strong>
+            <span>Skript seradi temata podle obtiznosti a terminu testu.</span>
+          </article>
+          <article>
+            <strong>3. Vystup</strong>
+            <span>Plan se ulozi do plan.json a zobrazi na teto strance.</span>
+          </article>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>

@@ -1,0 +1,97 @@
+[
+  {
+    "day": "Pondeli",
+    "tasks": [
+      {
+        "label": "Operační systémy: Celý kernel v Linuxu",
+        "subject": "Operační systémy",
+        "topic": "Celý kernel v Linuxu",
+        "testDate": "2026-06-08",
+        "difficulty": 1000,
+        "priority": 10001
+      },
+      {
+        "label": "Matematika: funkce",
+        "subject": "Matematika",
+        "topic": "funkce",
+        "testDate": "2026-06-03",
+        "difficulty": 5,
+        "priority": 50
+      },
+      {
+        "label": "Dejepis: mezivalecne obdobi",
+        "subject": "Dejepis",
+        "topic": "mezivalecne obdobi",
+        "testDate": "2026-06-05",
+        "difficulty": 3,
+        "priority": 30
+      },
+      {
+        "label": "Anglictina: essay",
+        "subject": "Anglictina",
+        "topic": "essay",
+        "testDate": "2026-06-04",
+        "difficulty": 2,
+        "priority": 19
+      }
+    ]
+  },
+  {
+    "day": "Utery",
+    "tasks": [
+      {
+        "label": "Operační systémy: Příkazy dlouhé minimálně 50 znaků",
+        "subject": "Operační systémy",
+        "topic": "Příkazy dlouhé minimálně 50 znaků",
+        "testDate": "2026-06-08",
+        "difficulty": 1000,
+        "priority": 10000
+      },
+      {
+        "label": "Matematika: grafy",
+        "subject": "Matematika",
+        "topic": "grafy",
+        "testDate": "2026-06-03",
+        "difficulty": 5,
+        "priority": 49
+      },
+      {
+        "label": "Anglictina: past simple",
+        "subject": "Anglictina",
+        "topic": "past simple",
+        "testDate": "2026-06-04",
+        "difficulty": 2,
+        "priority": 21
+      }
+    ]
+  },
+  {
+    "day": "Streda",
+    "tasks": [
+      {
+        "label": "Matematika: rovnice",
+        "subject": "Matematika",
+        "topic": "rovnice",
+        "testDate": "2026-06-03",
+        "difficulty": 5,
+        "priority": 51
+      },
+      {
+        "label": "Dejepis: prvni svetova valka",
+        "subject": "Dejepis",
+        "topic": "prvni svetova valka",
+        "testDate": "2026-06-05",
+        "difficulty": 3,
+        "priority": 31
+      },
+      {
+        "label": "Anglictina: listening",
+        "subject": "Anglictina",
+        "topic": "listening",
+        "testDate": "2026-06-04",
+        "difficulty": 2,
+        "priority": 20
+      }
+    ]
+  }
+]

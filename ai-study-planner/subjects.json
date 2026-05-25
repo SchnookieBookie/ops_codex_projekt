@@ -1,0 +1,26 @@
+[
+  {
+    "subject": "Matematika",
+    "testDate": "2026-06-03",
+    "difficulty": 5,
+    "topics": ["rovnice", "funkce", "grafy"]
+  },
+  {
+    "subject": "Operační systémy",
+    "testDate": "2026-06-08",
+    "difficulty": 1000,
+    "topics": ["Celý kernel v Linuxu","Příkazy dlouhé minimálně 50 znaků"]
+  },
+  {
+    "subject": "Dejepis",
+    "testDate": "2026-06-05",
+    "difficulty": 3,
+    "topics": ["prvni svetova valka", "mezivalecne obdobi"]
+  },
+  {
+    "subject": "Anglictina",
+    "testDate": "2026-06-04",
+    "difficulty": 2,
+    "topics": ["past simple", "listening", "essay"]
+  }
+]

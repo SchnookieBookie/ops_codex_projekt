@@ -1,0 +1,19 @@
+{
+  "name": "ai-study-planner",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Skolni demo: Codex jako AI operacni vrstva nad mini projektem.",
+  "scripts": {
+    "generate": "node generate_plan.js",
+    "validate": "node validate_plan.js",
+    "serve": "node serve.js",
+    "demo": "node generate_plan.js && node validate_plan.js && node serve.js"
+  },
+  "keywords": [
+    "codex",
+    "ai",
+    "school",
+    "demo"
+  ],
+  "license": "UNLICENSED"
+}
