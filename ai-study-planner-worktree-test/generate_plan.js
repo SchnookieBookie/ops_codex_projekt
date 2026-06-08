@@ -47,7 +47,7 @@ function validateSubjects(subjects) {
       throw new Error(`${prefix}: topics musí obsahovat alespoň jedno téma.`);
     }
 
-    subjects.topics.forEach((topic, topicIndex) => {
+    subject.topics.forEach((topic, topicIndex) => {
       assertText(topic, `${prefix}: topics[${topicIndex}]`);
     });
   });
